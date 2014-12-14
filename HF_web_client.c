@@ -1,4 +1,12 @@
- #include <stdio.h>
+/*
+ * Wikipediaに接続してページをダウンロード
+ * 
+ * Head First C. 11章
+ */
+
+
+
+#include <stdio.h>
  #include <string.h>
  #include <errno.h>
  #include <stdlib.h>
